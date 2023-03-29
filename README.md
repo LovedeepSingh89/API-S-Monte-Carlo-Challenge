@@ -1,4 +1,4 @@
-# APIS-Monte-Carlo-Challenge
+# API'S-Monte-Carlo-Challenge
 
 ---
 **Welcome to my API's and Monte Carlo Simulation Repository**
